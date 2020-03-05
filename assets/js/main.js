@@ -11,3 +11,12 @@ if (navigator.serviceWorker) {
 			console.log('ServiceWorker registration failed:', error);
 		});
 }
+
+// var leftBtn = document.getElementsByClassName('left-btn'); //Keeping it unobstrusive
+// function doDemo () {
+
+//   sliding-system.style.transform = "translate3d(-40%, 0, 0)";
+// }
+
+// leftBtn.onclick = doDemo; //Onclick call. Pass no arguments.​​​​​
+
